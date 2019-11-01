@@ -1,4 +1,4 @@
-# api_client
+# api_client_cache
 [![Build Status](https://travis-ci.org/dotronglong/dart-api-client-cache.svg?branch=master)](https://travis-ci.org/dotronglong/dart-api-client-cache)
 
 A HTTP Cache transporter for `api_client`
